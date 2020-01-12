@@ -1,0 +1,12 @@
+class ConfigInit:
+    url = 'xxxx'
+    sendaddr_name = 'xxxxx'
+    sendaddr_pswd = 'xxxx'
+    data_filename = 'login.xls'
+    mongo_user = 'name'
+    mongo_pw = 'pw'
+    mongo_ip = 'ip'
+    AccessKey = 'xxxqgPSa'
+    SecretKey = 'xxxxLxtOhOeE'
+    qiniu_domain = 'xxxxd.com/'
+    qiniu_house = 'jimi-imags'
